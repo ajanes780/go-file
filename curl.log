@@ -1,0 +1,477 @@
+2023/06/07 18:47:23.697418 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_White_Pastel/product.def}
+2023/06/07 18:47:23.701687 [INFO] Fetching from s3 {projects-renoworks : waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/highlights.png}
+2023/06/07 18:47:23.701250 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_Green/product.def}
+2023/06/07 18:47:23.709495 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/product.def}
+2023/06/07 18:47:23.727219 [INFO] Fetching from s3 {projects-renoworks : waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png}
+2023/06/07 18:47:23.741467 [INFO] Fetching from s3 {projects-renoworks : waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/shadows.png}
+2023/06/07 18:47:23.765650 [INFO] Fetching from s3 {projects-renoworks : waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/reflections.png}
+2023/06/07 18:47:23.834832 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/product.def}
+2023/06/07 18:47:23.889495 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~CabinetSurfaces/product.def}
+2023/06/07 18:47:23.934296 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/grid.xml}
+2023/06/07 18:47:23.961685 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/product.def}
+2023/06/07 18:47:24.023802 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/grid.xml}
+2023/06/07 18:47:24.061525 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/grid.xml}
+2023/06/07 18:47:24.102052 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_Green/product.def}
+2023/06/07 18:47:24.148881 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/product.def}
+2023/06/07 18:47:24.172065 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/product.def}
+2023/06/07 18:47:24.473895 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/product.def}
+2023/06/07 18:47:24.664498 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~CabinetSurfaces/product.def}
+2023/06/07 18:47:24.673094 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_White_Pastel/product.def}
+2023/06/07 18:47:24.917047 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/grid.xml}
+2023/06/07 18:47:25.033741 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/grid.xml}
+2023/06/07 18:47:25.084391 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/grid.xml}
+2023/06/07 18:47:26.919143 [INFO] Fetching from s3 {projects-renoworks : waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png}
+2023/06/07 18:48:06.921487 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_4.png}
+2023/06/07 18:48:06.921522 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_3.png}
+2023/06/07 18:48:06.937868 [INFO] Fetching from s3 {projects-renoworks : waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/highlights.png}
+2023/06/07 18:48:07.058054 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_8.png}
+2023/06/07 18:48:07.067092 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0005_Layer 7.jpg}
+2023/06/07 18:48:07.087171 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0003_Layer 5.jpg}
+2023/06/07 18:48:07.117926 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_7.png}
+2023/06/07 18:48:07.120519 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_6.png}
+2023/06/07 18:48:07.120739 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0004_Layer 6.jpg}
+2023/06/07 18:48:07.178561 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0014_Layer 16.jpg}
+2023/06/07 18:48:07.196838 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0000_Layer 1.jpg}
+2023/06/07 18:48:07.219471 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0007_Layer 9.jpg}
+2023/06/07 18:48:07.235057 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0006_Layer 8.jpg}
+2023/06/07 18:48:07.251866 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0016_Layer 18.jpg}
+2023/06/07 18:48:07.254714 [INFO] Fetching from s3 {projects-renoworks : waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/reflections.png}
+2023/06/07 18:48:07.257204 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0017_Layer 19.jpg}
+2023/06/07 18:48:07.311473 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0018_Layer 20.jpg}
+2023/06/07 18:48:07.328775 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0011_Layer 13.jpg}
+2023/06/07 18:48:07.345437 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0013_Layer 15.jpg}
+2023/06/07 18:48:07.359790 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0015_Layer 17.jpg}
+2023/06/07 18:48:07.403029 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_2.png}
+2023/06/07 18:48:07.440267 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0010_Layer 12.jpg}
+2023/06/07 18:48:07.440297 [INFO] Fetching from s3 {projects-renoworks : waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/master.jpg}
+2023/06/07 18:48:07.459673 [INFO] Fetching from s3 {projects-renoworks : waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/shadows.png}
+2023/06/07 18:48:07.492348 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/Painted-Grooves_Vanilla.png}
+2023/06/07 18:48:07.493519 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~CabinetSurfaces/530S_Vanilla copy.jpg}
+2023/06/07 18:48:07.501842 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0001_Layer 2.jpg}
+2023/06/07 18:48:07.514003 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/NONE_thumb.jpg}
+2023/06/07 18:48:07.529286 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/750F_Vanilla copy.jpg}
+2023/06/07 18:48:07.583842 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_5.png}
+2023/06/07 18:48:07.649150 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0009_Layer 11.jpg}
+2023/06/07 18:48:07.651479 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0002_Layer 3.jpg}
+2023/06/07 18:48:07.704070 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0008_Layer 10.jpg}
+2023/06/07 18:48:07.769456 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/NONE_thumb.jpg}
+2023/06/07 18:48:07.796632 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/644S_Vanilla_flat.png}
+2023/06/07 18:48:07.805676 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/Painted-Grooves_Vanilla.png}
+2023/06/07 18:48:07.809118 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/cambria_swatch_0110_lg.jpg}
+2023/06/07 18:48:07.817824 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_1.png}
+2023/06/07 18:48:07.864427 [INFO] Fetching from s3 {projects-renoworks : waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png}
+2023/06/07 18:48:07.865497 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/Latte_Groove.png}
+2023/06/07 18:48:07.871769 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/750F_Maple_Latte copy.jpg}
+2023/06/07 18:48:07.874019 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/NONE_thumb.jpg}
+2023/06/07 18:48:07.895761 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/750F_Vanilla copy.jpg}
+2023/06/07 18:48:07.938880 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/644S_Vanilla_flat.png}
+2023/06/07 18:48:08.046941 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/644S_Maple_Latte_grooveless.png}
+2023/06/07 18:48:08.056741 [INFO] Fetching from s3 {renoworks-svn-product : waypoint/60743/Interior/Materials/~CabinetSurfaces/530S_Maple_Latte copy.jpg}
+2023/06/07 18:53:28.507531 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 18:53:28.507761 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/highlights.png 200
+2023/06/07 18:53:28.508091 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/product.def 200
+2023/06/07 18:53:28.508464 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/product.def 200
+2023/06/07 18:53:28.510752 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/reflections.png 200
+2023/06/07 18:53:28.509825 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/shadows.png 200
+2023/06/07 18:53:28.510796 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_White_Pastel/product.def 200
+2023/06/07 18:53:28.517815 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_Green/product.def 200
+2023/06/07 18:53:28.532535 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/product.def 200
+2023/06/07 18:53:28.540123 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:53:28.544614 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_White_Pastel/product.def 200
+2023/06/07 18:53:28.579161 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/product.def 200
+2023/06/07 18:53:28.579322 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/product.def 200
+2023/06/07 18:53:28.579356 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_Green/product.def 200
+2023/06/07 18:53:28.611424 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/product.def 200
+2023/06/07 18:53:28.697576 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:53:29.078276 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/product.def 200
+2023/06/07 18:53:29.096703 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:53:29.177532 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/product.def 200
+2023/06/07 18:53:29.196310 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:53:29.651846 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/grid.xml 200
+2023/06/07 18:53:29.790370 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/grid.xml 200
+2023/06/07 18:53:29.882052 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 18:53:29.914547 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/shadows.png 200
+2023/06/07 18:53:29.914682 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_2.png 200
+2023/06/07 18:53:29.917326 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_1.png 200
+2023/06/07 18:53:29.929375 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_4.png 200
+2023/06/07 18:53:29.929599 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/reflections.png 200
+2023/06/07 18:53:29.940838 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_5.png 200
+2023/06/07 18:53:29.941131 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_7.png 200
+2023/06/07 18:53:29.941268 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/master.jpg 200
+2023/06/07 18:53:29.943228 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_3.png 200
+2023/06/07 18:53:29.950154 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0009_Layer 11.jpg 200
+2023/06/07 18:53:29.950205 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0002_Layer 3.jpg 200
+2023/06/07 18:53:29.950515 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0016_Layer 18.jpg 200
+2023/06/07 18:53:29.950157 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_8.png 200
+2023/06/07 18:53:29.958572 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0007_Layer 9.jpg 200
+2023/06/07 18:53:29.975222 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0000_Layer 1.jpg 200
+2023/06/07 18:53:29.977141 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0013_Layer 15.jpg 200
+2023/06/07 18:53:29.981313 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0008_Layer 10.jpg 200
+2023/06/07 18:53:29.982596 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0014_Layer 16.jpg 200
+2023/06/07 18:53:29.996177 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0003_Layer 5.jpg 200
+2023/06/07 18:53:29.999299 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0004_Layer 6.jpg 200
+2023/06/07 18:53:30.005389 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0005_Layer 7.jpg 200
+2023/06/07 18:53:30.005539 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 18:53:30.020969 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0010_Layer 12.jpg 200
+2023/06/07 18:53:30.022493 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0006_Layer 8.jpg 200
+2023/06/07 18:53:30.028729 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0018_Layer 20.jpg 200
+2023/06/07 18:53:30.033843 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0011_Layer 13.jpg 200
+2023/06/07 18:53:30.048100 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0017_Layer 19.jpg 200
+2023/06/07 18:53:30.048405 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0001_Layer 2.jpg 200
+2023/06/07 18:53:30.058179 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_6.png 200
+2023/06/07 18:53:30.061628 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/highlights.png 200
+2023/06/07 18:53:30.061909 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0015_Layer 17.jpg 200
+2023/06/07 18:53:30.179557 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/Painted-Grooves_Vanilla.png 200
+2023/06/07 18:53:30.192800 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/750F_Vanilla copy.jpg 200
+2023/06/07 18:53:30.192987 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/530S_Vanilla copy.jpg 200
+2023/06/07 18:53:30.268431 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/NONE_thumb.jpg 200
+2023/06/07 18:53:30.314365 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/644S_Vanilla_flat.png 200
+2023/06/07 18:53:30.525951 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/cambria_swatch_0110_lg.jpg 200
+2023/06/07 18:53:30.527473 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/NONE_thumb.jpg 200
+2023/06/07 18:53:30.570102 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/Painted-Grooves_Vanilla.png 200
+2023/06/07 18:53:30.570179 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/750F_Vanilla copy.jpg 200
+2023/06/07 18:53:30.634719 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/644S_Vanilla_flat.png 200
+2023/06/07 18:53:30.743219 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/530S_Maple_Latte copy.jpg 200
+2023/06/07 18:53:31.092877 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/Latte_Groove.png 200
+2023/06/07 18:53:31.095470 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/750F_Maple_Latte copy.jpg 200
+2023/06/07 18:53:31.106330 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/NONE_thumb.jpg 200
+2023/06/07 18:53:31.125316 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/644S_Maple_Latte_grooveless.png 200
+2023/06/07 18:54:42.167749 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_White_Pastel/product.def 200
+2023/06/07 18:54:42.176263 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/product.def 200
+2023/06/07 18:54:42.176264 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_Green/product.def 200
+2023/06/07 18:54:42.181459 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/product.def 200
+2023/06/07 18:54:42.183932 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/reflections.png 200
+2023/06/07 18:54:42.184031 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/product.def 200
+2023/06/07 18:54:42.185011 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/highlights.png 200
+2023/06/07 18:54:42.186859 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/shadows.png 200
+2023/06/07 18:54:42.189115 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 18:54:42.208231 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/product.def 200
+2023/06/07 18:54:42.224113 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:54:42.266206 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/product.def 200
+2023/06/07 18:54:42.266238 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/product.def 200
+2023/06/07 18:54:42.266370 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_Green/product.def 200
+2023/06/07 18:54:42.266374 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_White_Pastel/product.def 200
+2023/06/07 18:54:42.306733 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:54:42.494737 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/product.def 200
+2023/06/07 18:54:42.559218 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/product.def 200
+2023/06/07 18:54:42.594595 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:54:42.853404 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:54:43.477944 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/grid.xml 200
+2023/06/07 18:54:43.626666 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/grid.xml 200
+2023/06/07 18:54:43.747469 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 18:54:43.752643 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_3.png 200
+2023/06/07 18:54:43.772318 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_2.png 200
+2023/06/07 18:54:43.773387 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/shadows.png 200
+2023/06/07 18:54:43.780034 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/reflections.png 200
+2023/06/07 18:54:43.783541 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_1.png 200
+2023/06/07 18:54:43.783773 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_8.png 200
+2023/06/07 18:54:43.789933 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_5.png 200
+2023/06/07 18:54:43.790813 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/highlights.png 200
+2023/06/07 18:54:43.791940 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_6.png 200
+2023/06/07 18:54:43.806897 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0000_Layer 1.jpg 200
+2023/06/07 18:54:43.807296 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0010_Layer 12.jpg 200
+2023/06/07 18:54:43.807313 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_4.png 200
+2023/06/07 18:54:43.806901 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0009_Layer 11.jpg 200
+2023/06/07 18:54:43.808463 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0008_Layer 10.jpg 200
+2023/06/07 18:54:43.808471 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0004_Layer 6.jpg 200
+2023/06/07 18:54:43.810198 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/master.jpg 200
+2023/06/07 18:54:43.832049 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0011_Layer 13.jpg 200
+2023/06/07 18:54:43.843915 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_7.png 200
+2023/06/07 18:54:43.848216 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0003_Layer 5.jpg 200
+2023/06/07 18:54:43.852475 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0015_Layer 17.jpg 200
+2023/06/07 18:54:43.871803 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0007_Layer 9.jpg 200
+2023/06/07 18:54:43.882454 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0017_Layer 19.jpg 200
+2023/06/07 18:54:43.886387 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0006_Layer 8.jpg 200
+2023/06/07 18:54:43.895717 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0005_Layer 7.jpg 200
+2023/06/07 18:54:43.909846 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0002_Layer 3.jpg 200
+2023/06/07 18:54:43.911336 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0014_Layer 16.jpg 200
+2023/06/07 18:54:43.918962 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0001_Layer 2.jpg 200
+2023/06/07 18:54:43.933199 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0013_Layer 15.jpg 200
+2023/06/07 18:54:43.935877 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0018_Layer 20.jpg 200
+2023/06/07 18:54:43.944497 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0016_Layer 18.jpg 200
+2023/06/07 18:54:43.976126 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 18:54:44.069504 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/Painted-Grooves_Vanilla.png 200
+2023/06/07 18:54:44.116646 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/530S_Vanilla copy.jpg 200
+2023/06/07 18:54:44.164647 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/NONE_thumb.jpg 200
+2023/06/07 18:54:44.208807 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/644S_Vanilla_flat.png 200
+2023/06/07 18:54:44.215333 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/750F_Vanilla copy.jpg 200
+2023/06/07 18:54:44.383748 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/cambria_swatch_0110_lg.jpg 200
+2023/06/07 18:54:44.384423 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/NONE_thumb.jpg 200
+2023/06/07 18:54:44.388274 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/Painted-Grooves_Vanilla.png 200
+2023/06/07 18:54:44.429817 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/750F_Vanilla copy.jpg 200
+2023/06/07 18:54:44.496356 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/644S_Vanilla_flat.png 200
+2023/06/07 18:54:44.592670 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/530S_Maple_Latte copy.jpg 200
+2023/06/07 18:54:44.949993 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/Latte_Groove.png 200
+2023/06/07 18:54:44.960832 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/NONE_thumb.jpg 200
+2023/06/07 18:54:44.966385 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/750F_Maple_Latte copy.jpg 200
+2023/06/07 18:54:44.981341 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/644S_Maple_Latte_grooveless.png 200
+2023/06/07 18:55:09.160661 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/product.def 200
+2023/06/07 18:55:09.165529 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:55:09.174417 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_Green/product.def 200
+2023/06/07 18:55:09.174796 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/product.def 200
+2023/06/07 18:55:09.176015 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_White_Pastel/product.def 200
+2023/06/07 18:55:09.177097 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 18:55:09.179302 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/highlights.png 200
+2023/06/07 18:55:09.182512 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/shadows.png 200
+2023/06/07 18:55:09.187757 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/product.def 200
+2023/06/07 18:55:09.189034 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/product.def 200
+2023/06/07 18:55:09.191239 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/reflections.png 200
+2023/06/07 18:55:09.242845 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/product.def 200
+2023/06/07 18:55:09.242988 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/product.def 200
+2023/06/07 18:55:09.242863 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_Green/product.def 200
+2023/06/07 18:55:09.244649 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:55:09.245797 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_White_Pastel/product.def 200
+2023/06/07 18:55:09.746435 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:55:09.781737 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/product.def 200
+2023/06/07 18:55:09.825937 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:55:09.887197 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/product.def 200
+2023/06/07 18:55:10.490557 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/grid.xml 200
+2023/06/07 18:55:10.598964 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/grid.xml 200
+2023/06/07 18:55:10.741388 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 18:55:10.751631 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_8.png 200
+2023/06/07 18:55:10.753878 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_5.png 200
+2023/06/07 18:55:10.753919 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_6.png 200
+2023/06/07 18:55:10.754110 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_3.png 200
+2023/06/07 18:55:10.760241 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_4.png 200
+2023/06/07 18:55:10.760369 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_2.png 200
+2023/06/07 18:55:10.761551 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_7.png 200
+2023/06/07 18:55:10.765745 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/shadows.png 200
+2023/06/07 18:55:10.775784 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/master.jpg 200
+2023/06/07 18:55:10.781431 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_1.png 200
+2023/06/07 18:55:10.781769 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0004_Layer 6.jpg 200
+2023/06/07 18:55:10.786820 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0009_Layer 11.jpg 200
+2023/06/07 18:55:10.788538 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/highlights.png 200
+2023/06/07 18:55:10.794135 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0002_Layer 3.jpg 200
+2023/06/07 18:55:10.797540 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0003_Layer 5.jpg 200
+2023/06/07 18:55:10.800082 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0016_Layer 18.jpg 200
+2023/06/07 18:55:10.805271 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0006_Layer 8.jpg 200
+2023/06/07 18:55:10.811477 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0014_Layer 16.jpg 200
+2023/06/07 18:55:10.822931 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0015_Layer 17.jpg 200
+2023/06/07 18:55:10.823398 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0010_Layer 12.jpg 200
+2023/06/07 18:55:10.826539 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0005_Layer 7.jpg 200
+2023/06/07 18:55:10.836637 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0008_Layer 10.jpg 200
+2023/06/07 18:55:10.846932 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/reflections.png 200
+2023/06/07 18:55:10.851479 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0018_Layer 20.jpg 200
+2023/06/07 18:55:10.853089 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0007_Layer 9.jpg 200
+2023/06/07 18:55:10.864317 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0013_Layer 15.jpg 200
+2023/06/07 18:55:10.873371 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 18:55:10.873720 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0001_Layer 2.jpg 200
+2023/06/07 18:55:10.879143 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0000_Layer 1.jpg 200
+2023/06/07 18:55:10.896352 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0011_Layer 13.jpg 200
+2023/06/07 18:55:11.010558 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0017_Layer 19.jpg 200
+2023/06/07 18:55:11.018991 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/NONE_thumb.jpg 200
+2023/06/07 18:55:11.032081 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/644S_Vanilla_flat.png 200
+2023/06/07 18:55:11.061517 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/750F_Vanilla copy.jpg 200
+2023/06/07 18:55:11.072670 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/530S_Vanilla copy.jpg 200
+2023/06/07 18:55:11.079225 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/Painted-Grooves_Vanilla.png 200
+2023/06/07 18:55:11.335906 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/cambria_swatch_0110_lg.jpg 200
+2023/06/07 18:55:11.357082 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/750F_Vanilla copy.jpg 200
+2023/06/07 18:55:11.357196 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/NONE_thumb.jpg 200
+2023/06/07 18:55:11.357247 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/Painted-Grooves_Vanilla.png 200
+2023/06/07 18:55:11.426860 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/644S_Vanilla_flat.png 200
+2023/06/07 18:55:11.427301 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/530S_Maple_Latte copy.jpg 200
+2023/06/07 18:55:11.777210 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/Latte_Groove.png 200
+2023/06/07 18:55:11.787201 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/NONE_thumb.jpg 200
+2023/06/07 18:55:11.811583 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/750F_Maple_Latte copy.jpg 200
+2023/06/07 18:55:11.817562 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/644S_Maple_Latte_grooveless.png 200
+2023/06/07 18:59:03.867037 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/overrides.xml 403
+2023/06/07 18:59:03.868707 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/overrides.xml 403
+2023/06/07 18:59:03.870417 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 18:59:03.870416 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/overrides.xml 403
+2023/06/07 18:59:03.870437 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/shadows.png 200
+2023/06/07 18:59:03.875639 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/reflections.png 200
+2023/06/07 18:59:03.880111 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/highlights.png 200
+2023/06/07 18:59:03.891948 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/overrides.xml 403
+2023/06/07 18:59:03.897612 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 18:59:03.905284 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/overrides.xml 403
+2023/06/07 18:59:03.905312 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/overrides.xml 403
+2023/06/07 18:59:03.907086 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/overrides.xml 403
+2023/06/07 18:59:03.908428 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/product.def 200
+2023/06/07 18:59:03.912151 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/overrides.xml 403
+2023/06/07 18:59:03.925072 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_Green/product.def 200
+2023/06/07 18:59:03.926468 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/product.def 200
+2023/06/07 18:59:03.931191 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/overrides.xml 403
+2023/06/07 18:59:03.931377 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/product.def 200
+2023/06/07 18:59:03.932379 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 18:59:03.949142 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/product.def 200
+2023/06/07 18:59:03.951512 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_Green/product.def 200
+2023/06/07 18:59:03.951514 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/product.def 200
+2023/06/07 18:59:03.997027 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/product.def 200
+2023/06/07 18:59:04.032781 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 18:59:04.032780 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/overrides.xml 403
+2023/06/07 18:59:04.042325 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:59:04.056460 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_White_Pastel/product.def 200
+2023/06/07 18:59:04.089677 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/overrides.xml 403
+2023/06/07 18:59:04.128773 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_White_Pastel/product.def 200
+2023/06/07 18:59:04.158772 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:59:04.221193 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/overrides.xml 403
+2023/06/07 18:59:04.247599 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:59:04.253933 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/overrides.xml 403
+2023/06/07 18:59:04.303663 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/overrides.xml 403
+2023/06/07 18:59:04.309302 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/overrides.xml 403
+2023/06/07 18:59:04.309944 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/overrides.xml 403
+2023/06/07 18:59:04.326556 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/grid.xml 200
+2023/06/07 18:59:04.332065 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/product.def 200
+2023/06/07 18:59:04.378776 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/overrides.xml 403
+2023/06/07 18:59:04.379673 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/product.def 200
+2023/06/07 18:59:04.498260 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/overrides.xml 403
+2023/06/07 18:59:04.923039 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/grid.xml 200
+2023/06/07 18:59:05.012923 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/grid.xml 200
+2023/06/07 18:59:05.128581 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 18:59:05.149269 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_2.png 200
+2023/06/07 18:59:05.155196 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_5.png 200
+2023/06/07 18:59:05.155632 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_3.png 200
+2023/06/07 18:59:05.157561 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/shadows.png 200
+2023/06/07 18:59:05.160621 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_6.png 200
+2023/06/07 18:59:05.161050 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_1.png 200
+2023/06/07 18:59:05.161172 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_7.png 200
+2023/06/07 18:59:05.162992 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0010_Layer 12.jpg 200
+2023/06/07 18:59:05.168497 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0009_Layer 11.jpg 200
+2023/06/07 18:59:05.170703 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_4.png 200
+2023/06/07 18:59:05.172406 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0007_Layer 9.jpg 200
+2023/06/07 18:59:05.181406 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0000_Layer 1.jpg 200
+2023/06/07 18:59:05.190015 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/reflections.png 200
+2023/06/07 18:59:05.193806 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0003_Layer 5.jpg 200
+2023/06/07 18:59:05.197805 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0014_Layer 16.jpg 200
+2023/06/07 18:59:05.202439 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0013_Layer 15.jpg 200
+2023/06/07 18:59:05.202184 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0005_Layer 7.jpg 200
+2023/06/07 18:59:05.205466 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0001_Layer 2.jpg 200
+2023/06/07 18:59:05.205506 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0015_Layer 17.jpg 200
+2023/06/07 18:59:05.205554 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0004_Layer 6.jpg 200
+2023/06/07 18:59:05.214395 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 18:59:05.227856 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/master.jpg 200
+2023/06/07 18:59:05.231321 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0002_Layer 3.jpg 200
+2023/06/07 18:59:05.231392 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0008_Layer 10.jpg 200
+2023/06/07 18:59:05.231485 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0006_Layer 8.jpg 200
+2023/06/07 18:59:05.234256 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0016_Layer 18.jpg 200
+2023/06/07 18:59:05.234288 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0017_Layer 19.jpg 200
+2023/06/07 18:59:05.240209 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/highlights.png 200
+2023/06/07 18:59:05.260648 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0018_Layer 20.jpg 200
+2023/06/07 18:59:05.313445 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_8.png 200
+2023/06/07 18:59:05.313855 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0011_Layer 13.jpg 200
+2023/06/07 18:59:05.419264 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/Painted-Grooves_Vanilla.png 200
+2023/06/07 18:59:05.456260 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/NONE_thumb.jpg 200
+2023/06/07 18:59:05.469047 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/750F_Vanilla copy.jpg 200
+2023/06/07 18:59:05.477181 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/644S_Vanilla_flat.png 200
+2023/06/07 18:59:05.498567 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/530S_Vanilla copy.jpg 200
+2023/06/07 18:59:05.915019 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/NONE_thumb.jpg 200
+2023/06/07 18:59:05.930256 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/cambria_swatch_0110_lg.jpg 200
+2023/06/07 18:59:05.930268 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/750F_Vanilla copy.jpg 200
+2023/06/07 18:59:05.963396 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/644S_Vanilla_flat.png 200
+2023/06/07 18:59:05.963563 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/Painted-Grooves_Vanilla.png 200
+2023/06/07 18:59:06.039093 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/530S_Maple_Latte copy.jpg 200
+2023/06/07 18:59:06.383620 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/NONE_thumb.jpg 200
+2023/06/07 18:59:06.398573 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/Latte_Groove.png 200
+2023/06/07 18:59:06.428734 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/750F_Maple_Latte copy.jpg 200
+2023/06/07 18:59:06.470667 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/644S_Maple_Latte_grooveless.png 200
+2023/06/07 19:00:08.693378 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/shadows.png 200
+2023/06/07 19:00:08.695810 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/overrides.xml 403
+2023/06/07 19:00:08.700508 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/overrides.xml 403
+2023/06/07 19:00:08.700843 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/overrides.xml 403
+2023/06/07 19:00:08.702019 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 19:00:08.702163 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/highlights.png 200
+2023/06/07 19:00:08.702016 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/reflections.png 200
+2023/06/07 19:00:08.725159 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:08.745908 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/overrides.xml 403
+2023/06/07 19:00:08.747441 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/overrides.xml 403
+2023/06/07 19:00:08.747474 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/overrides.xml 403
+2023/06/07 19:00:08.747786 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/grid.xml 200
+2023/06/07 19:00:08.748832 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/overrides.xml 403
+2023/06/07 19:00:08.752771 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/product.def 200
+2023/06/07 19:00:08.773931 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/product.def 200
+2023/06/07 19:00:08.783024 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/overrides.xml 403
+2023/06/07 19:00:08.785734 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/overrides.xml 403
+2023/06/07 19:00:08.785783 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/overrides.xml 403
+2023/06/07 19:00:08.787185 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:08.814749 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_Green/product.def 200
+2023/06/07 19:00:08.814909 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/product.def 200
+2023/06/07 19:00:08.818387 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/grid.xml 200
+2023/06/07 19:00:08.842227 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_Green/product.def 200
+2023/06/07 19:00:08.845405 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/product.def 200
+2023/06/07 19:00:08.847466 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:08.848933 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/overrides.xml 403
+2023/06/07 19:00:08.850733 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/product.def 200
+2023/06/07 19:00:08.943062 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/product.def 200
+2023/06/07 19:00:08.991770 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:09.067504 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:09.134567 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:09.147355 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/overrides.xml 403
+2023/06/07 19:00:09.171729 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:09.186870 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_White_Pastel/product.def 200
+2023/06/07 19:00:09.194377 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/overrides.xml 403
+2023/06/07 19:00:09.208661 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/overrides.xml 403
+2023/06/07 19:00:09.229762 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/grid.xml 200
+2023/06/07 19:00:09.231504 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:09.246505 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/overrides.xml 403
+2023/06/07 19:00:09.272823 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/overrides.xml 403
+2023/06/07 19:00:09.274488 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Paint/Sherwin Williams/~SherwinWilliams_White_Pastel/product.def 200
+2023/06/07 19:00:09.295851 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/product.def 200
+2023/06/07 19:00:09.308393 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:09.310278 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/grid.xml 200
+2023/06/07 19:00:09.341690 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/overrides.xml 403
+2023/06/07 19:00:09.371476 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:09.371935 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/overrides.xml 403
+2023/06/07 19:00:09.372791 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/product.def 200
+2023/06/07 19:00:09.382819 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/overrides.xml 403
+2023/06/07 19:00:09.418660 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:09.432656 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/overrides.xml 403
+2023/06/07 19:00:09.477192 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:09.484946 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/overrides.xml 403
+2023/06/07 19:00:09.627741 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/overrides.xml 403
+2023/06/07 19:00:09.632534 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/overrides.xml 403
+2023/06/07 19:00:09.776627 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:09.868662 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/overrides.xml 403
+2023/06/07 19:00:09.871780 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/grid.xml 200
+2023/06/07 19:00:09.875835 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:09.909503 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/grid.xml 200
+2023/06/07 19:00:09.933163 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:09.977556 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:10.032914 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:10.098712 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/overrides.xml 403
+2023/06/07 19:00:10.165850 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 19:00:10.177402 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/master.jpg 200
+2023/06/07 19:00:10.177428 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/reflections.png 200
+2023/06/07 19:00:10.178845 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/shadows.png 200
+2023/06/07 19:00:10.193549 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_6.png 200
+2023/06/07 19:00:10.206069 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_7.png 200
+2023/06/07 19:00:10.206067 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_1.png 200
+2023/06/07 19:00:10.210104 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_4.png 200
+2023/06/07 19:00:10.210940 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0005_Layer 7.jpg 200
+2023/06/07 19:00:10.213616 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/overlay.png 200
+2023/06/07 19:00:10.223630 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_8.png 200
+2023/06/07 19:00:10.226146 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_3.png 200
+2023/06/07 19:00:10.229809 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0001_Layer 2.jpg 200
+2023/06/07 19:00:10.230532 [INFO] Fetching from curl https://projects-renoworks.s3.us-west-2.amazonaws.com/waypoint/3423c6b4-9d53-43f0-93a9-2992971009ac/highlights.png 200
+2023/06/07 19:00:10.235172 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0011_Layer 13.jpg 200
+2023/06/07 19:00:10.237747 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0000_Layer 1.jpg 200
+2023/06/07 19:00:10.246863 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0007_Layer 9.jpg 200
+2023/06/07 19:00:10.260419 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0003_Layer 5.jpg 200
+2023/06/07 19:00:10.262738 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0008_Layer 10.jpg 200
+2023/06/07 19:00:10.275848 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0018_Layer 20.jpg 200
+2023/06/07 19:00:10.283656 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_5.png 200
+2023/06/07 19:00:10.290936 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0006_Layer 8.jpg 200
+2023/06/07 19:00:10.328124 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0002_Layer 3.jpg 200
+2023/06/07 19:00:10.329771 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Flooring/Generic/Hardwood/~09_Universal/universal_maple_2.png 200
+2023/06/07 19:00:10.335382 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0004_Layer 6.jpg 200
+2023/06/07 19:00:10.350228 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0009_Layer 11.jpg 200
+2023/06/07 19:00:10.353167 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0013_Layer 15.jpg 200
+2023/06/07 19:00:10.359860 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0015_Layer 17.jpg 200
+2023/06/07 19:00:10.379688 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0017_Layer 19.jpg 200
+2023/06/07 19:00:10.389531 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0016_Layer 18.jpg 200
+2023/06/07 19:00:10.394936 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0014_Layer 16.jpg 200
+2023/06/07 19:00:10.411506 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Backsplash/Generic/~Generic_Tile_Backsplash/1x3inch_stone_himalayan_0010_Layer 12.jpg 200
+2023/06/07 19:00:10.449928 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/750F_Vanilla copy.jpg 200
+2023/06/07 19:00:10.467198 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/530S_Vanilla copy.jpg 200
+2023/06/07 19:00:10.518712 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/NONE_thumb.jpg 200
+2023/06/07 19:00:10.520542 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/Painted-Grooves_Vanilla.png 200
+2023/06/07 19:00:10.527344 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_UpperDoors_Painted/~grid/644S_Vanilla_flat.png 200
+2023/06/07 19:00:10.779643 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Countertops/Generic/~Generic_Countertops_Style_01/cambria_swatch_0110_lg.jpg 200
+2023/06/07 19:00:10.799675 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/NONE_thumb.jpg 200
+2023/06/07 19:00:10.802542 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/Painted-Grooves_Vanilla.png 200
+2023/06/07 19:00:10.836950 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/750F_Vanilla copy.jpg 200
+2023/06/07 19:00:10.836955 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~03Waypoint_LowerDoors_Painted/~grid/644S_Vanilla_flat.png 200
+2023/06/07 19:00:10.981121 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~CabinetSurfaces/530S_Maple_Latte copy.jpg 200
+2023/06/07 19:00:11.334987 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/Latte_Groove.png 200
+2023/06/07 19:00:11.345461 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/NONE_thumb.jpg 200
+2023/06/07 19:00:11.350883 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/644S_Maple_Latte_grooveless.png 200
+2023/06/07 19:00:11.352724 [INFO] Fetching from curl https://renoworks-svn-product.s3.us-west-2.amazonaws.com/waypoint/60743/Interior/Materials/~01Waypoint_LowerDoors_Maple/~grid/750F_Maple_Latte copy.jpg 200
